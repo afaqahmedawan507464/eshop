@@ -1,0 +1,8 @@
+.btn_normal:hover{
+    background-color: red;
+    color: white;
+}
+.btn_delete:hover{
+    background-color: darkred;
+    color: white;
+}
